@@ -1,0 +1,8 @@
+{
+    "name":"Diego",
+    "email":"diego@strive.school",
+    "address": {
+        "road":"whatever",
+        "city":"whaver"
+    }
+}
