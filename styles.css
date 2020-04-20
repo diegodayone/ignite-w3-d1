@@ -1,0 +1,17 @@
+#responsive div {
+    border: 2px solid gray;
+    border-radius: 5px;
+    min-height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+#responsive span {
+    color: red;
+    font-weight: bolder;
+}
+
+#responsive div>span>div {
+    border: 0;
+    background: palegoldenrod;
+}
